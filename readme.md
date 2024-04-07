@@ -1,32 +1,30 @@
-Proje adı:
+Project Name:
 
 AutoChain
 
-Kimim:
+Name: Seyit Burhanettin Güneş
 
-Ad: Seyit Burhanettin Güneş
+Project Details:
 
-Proje detayları:
+AutoChain is a Solana blockchain project aiming to revolutionize the second-hand car market. It aims to provide NFTs containing the history of used cars. A customer purchasing a listed vehicle can view the relevant NFT and access information about the vehicle's history, including past accidents, resolved damages, and repair costs. Additionally, the project includes a chat program facilitating communication among customers, promoting informed decisions and trust in the second-hand car market.
 
-AutoChain, ikinci el araba pazarını devrimci bir şekilde değiştirmeyi hedefleyen bir Solana blockchain projesidir. İkinci el araçların geçmişini içeren NFT'ler sağlamayı amaçlamaktadır. Platformda listelenen bir aracı satın alan bir müşteri, ilgili NFT'yi görebilir ve aracın geçmişi hakkında bilgilere erişebilir. Bu bilgiler arasında geçmiş kazalar, sonuçlanan hasarlar ve onarıma ilişkin maliyetler bulunur. Ayrıca, projede müşteriler arasında iletişimi sağlayan bir sohbet programı da bulunmaktadır, bu da ikinci el araba pazarında bilinçli kararlar ve güvenin oluşmasına yardımcı olur.
+Vision:
 
-Vizyon:
+AutoChain aims to create a transparent and trustworthy ecosystem for second-hand car trading. By offering comprehensive vehicle histories through NFTs and enabling direct communication among customers, AutoChain seeks to empower users with reliable information, encouraging better decision-making, and ultimately enhancing the overall experience and efficiency of the second-hand car market.
 
-AutoChain, ikinci el araba alım satımı için şeffaf ve güvenilir bir ekosistem oluşturmayı amaçlamaktadır. NFT'ler aracılığıyla kapsamlı araç geçmişleri sunarak ve müşteriler arasında doğrudan iletişimi sağlayarak, AutoChain, kullanıcıları güvenilir bilgilerle donatarak daha iyi kararlar almayı teşvik etmeyi ve nihayetinde ikinci el araba pazarının genel deneyimini ve verimliliğini artırmayı hedeflemektedir.
+Software Development Plan:
 
-Yazılım Geliştirme Planı:
+Smart Contract Development: Implementation of smart contracts to create and manage NFTs containing vehicle history information.
+Interface Development: Development of a user-friendly interface that lists vehicles, displays NFTs, and enables chat functionality.
+Solana Blockchain Integration: Connecting the frontend application with the Solana blockchain to interact with smart contracts.
+Testing and Security Audits: Conducting thorough tests and security audits to ensure the platform's reliability and security.
+Deployment: Deployment of smart contracts and frontend application to the Solana blockchain and making the platform accessible to users.
 
-Akıllı Sözleşme Geliştirme: Araç geçmişi bilgilerini içeren NFT'leri oluşturmak ve yönetmek için akıllı sözleşmelerin uygulanması.
-Arayüz Geliştirme: Araçları listeleyen, NFT'leri görüntüleyen ve sohbet işlevselliğini etkinleştiren kullanıcı dostu bir arayüzün geliştirilmesi.
-Solana Blockchain Entegrasyonu: Ön uç uygulamasını Solana blockchain ile bağlayarak akıllı sözleşmelerle etkileşime geçmek.
-Test ve Güvenlik Denetimleri: Platformun güvenilirliğini ve güvenliğini sağlamak için detaylı testler ve güvenlik denetimleri yapılması.
-Dağıtım: Akıllı sözleşmelerin ve ön uç uygulamasının Solana blockchain'e dağıtılması ve platformun kullanıcılara erişilebilir hale getirilmesi.
+Personal Story Summary:
 
-Kişisel Hikaye Özeti:
+As a passionate developer in blockchain technology, I am excited to develop AutoChain to bring transparency and trust to the second-hand car market. By offering detailed vehicle histories through NFTs and enabling communication among customers, I aim to equip users with reliable information to make informed decisions in the second-hand car market.
 
-Blockchain teknolojisine tutkulu bir geliştirici olarak, AutoChain'i ikinci el araba pazarına şeffaflık ve güven getirmek için geliştirmekten heyecan duyuyorum. NFT'ler aracılığıyla detaylı araç geçmişleri sunarak ve müşteriler arasında iletişimi sağlayarak, ikinci el araba pazarında bilinçli kararlar almak için kullanıcıları güvenilir bilgilerle donatmayı amaçlıyorum.
-
-GitHub Readme Taslağı:
+GitHub Readme Draft:
 
 AutoChain
-AutoChain, kullanıcılarına şeffaf araç geçmişleri sunarak ve alıcılar ile satıcılar arasında doğrudan iletişimi sağlayarak ikinci el araba pazarını devrimci bir şekilde değiştiren Solana blockchain üzerinde geliştirilmiş merkezi olmayan bir uygulamadır.
+AutoChain is a decentralized application built on the Solana blockchain that revolutionizes the second-hand car market by providing users with transparent vehicle histories and enabling direct communication between buyers and sellers.
